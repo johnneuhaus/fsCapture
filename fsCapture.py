@@ -6,7 +6,7 @@
 # This script is:
 # C:\Shared\batch_files\fsCapture.py
 
-# Author: John Neuhaus, jneuhaus@osborn-eng.com
+# Author: John Neuhaus, jneuhausATosborn-engDOTcom
 # 2020-05-22 11:43
 
 # Requires additional packages to be installed.
