@@ -2444,8 +2444,6 @@ def main() :
     start_logging()
     setvars()
     logger.debug('main() returned from setvars()')
-    #checkcomputertime()
-    logger.debug('main() returned from checkcomputertime()')
     ip_ok()
     logger.debug('main() returned from ip_ok()')
     meas_results_folder()
